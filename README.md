@@ -6,12 +6,12 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<p align="right">
   <a href="https://www.youtube.com/@qjdeveloper"><img width="32px" alt="Youtube" title="Youtube" src="./src/icon-youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/qjdeveloper"><img width="32px" alt="Facebook" title="Facebook" src="./src/icon-facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/WGtfUwmtva" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./src/icon-discord.png"/></a>
+  <a href="https://discord.gg/WGtfUwmtva" alt="Discord" title="Discord"><img width="32px" src="./src/icon-discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/freddy.developer/"><img width="32px" alt="Dev.to" title="Instagram" src="./src/icon-instagram.png"></a>
+  <a href="https://www.instagram.com/freddy.developer/"><img width="32px" alt="Instagram" title="Instagram" src="./src/icon-instagram.png"></a>
 </p>

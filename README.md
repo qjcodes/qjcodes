@@ -1,5 +1,10 @@
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/banner-logo.png" /></a></p>
-<hr/>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=020DF7&width=435&lines=Full+-+stack+web+and+app+developer;UI%2FUX+designer+in+training;Always+learning+new+things)](https://git.io/typing-svg" /></a>
+</p>
 
 
 <h1 align="center"><img src="./src/qjdeveloper.gif" width="100px"><br/>QJ Developer</h1>

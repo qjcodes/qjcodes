@@ -1,6 +1,6 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/LogoGit.png" /></a></p>
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Freddy - QJ Developer <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>

@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/logogit.png" /></a></p>
 
-<h1 align="center"><img src="./src/qjdeveloper.gif" width="100px"> QJ Developer </h1>
+<h1 align="center"><img src="./src/qjdeveloper.gif" width="100px" height="30px"> QJ Developer </h1>
 
 <table align="right">
 <tr>

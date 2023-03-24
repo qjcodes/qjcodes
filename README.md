@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/LogoGit.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/LogiGit.png" /></a></p>
 
 <h1 align="center">Hi there, I'm Freddy - QJ Developer <img src="./src/wave.gif" width="30px"></h1>
 

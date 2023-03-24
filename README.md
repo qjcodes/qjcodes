@@ -1,5 +1,6 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/logogit.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/banner-logo.png" /></a></p>
 <hr/>
+
 
 <h1 align="center"><img src="./src/qjdeveloper.gif" width="100px"><br/>QJ Developer</h1>
 

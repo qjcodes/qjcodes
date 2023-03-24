@@ -15,6 +15,3 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/freddy.developer/"><img width="32px" alt="Dev.to" title="Instagram" src="./src/icon-instagram.png"></a>
 </p>
-
-
-<h1 align="center"><img src="./src/qjdeveloper.gif" width="100px"><br/>QJ Developer</h1>

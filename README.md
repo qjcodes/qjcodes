@@ -15,3 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/freddy.developer/"><img width="32px" alt="Instagram" title="Instagram" src="./src/icon-instagram.png"></a>
 </p>
+
+<a href="https://github.com/rqueaArequipa">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>

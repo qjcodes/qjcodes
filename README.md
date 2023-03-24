@@ -133,7 +133,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqueaArequipa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/rqueaArequipa/rqueaArequipa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/logogit.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Freddy. I do open source!" src="./src/logomain.png" /></a></p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

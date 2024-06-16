@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/WGtfUwmtva" alt="Discord" title="Discord"><img width="32px" src="./src/icon-discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/freddy.developer/"><img width="32px" alt="Instagram" title="Instagram" src="./src/icon-instagram.png"></a>
+  <a href="https://www.instagram.com/coders.qj/"><img width="32px" alt="Instagram" title="Instagram" src="./src/icon-instagram.png"></a>
 </p>
 
 

@@ -30,111 +30,23 @@ Versatile Full-Stack Developer specializing in both backend and frontend technol
 <details>
 <summary>🔽 Expand to view my technical proficiencies 🔽</summary>
 
-<style>
-.skill-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.skill-icon {
-  position: relative;
-  display: inline-block;
-}
-.skill-icon img {
-  width: 48px;
-  height: 48px;
-}
-.skill-icon::after {
-  content: attr(data-tooltip);
-  position: absolute;
-  bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: #333;
-  color: white;
-  padding: 5px 10px;
-  border-radius: 4px;
-  font-size: 14px;
-  white-space: nowrap;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.3s, visibility 0.3s;
-}
-.skill-icon:hover::after {
-  opacity: 1;
-  visibility: visible;
-}
-</style>
-
 ### 💻 Languages
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></div>
-  <div class="skill-icon" data-tooltip="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></div>
-  <div class="skill-icon" data-tooltip="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></div>
-  <div class="skill-icon" data-tooltip="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></div>
-  <div class="skill-icon" data-tooltip="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/></div>
-  <div class="skill-icon" data-tooltip="Swift"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></div>
-  <div class="skill-icon" data-tooltip="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></div>
-</div>
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,swift,php&theme=dark)
 
 ### 🎨 Frontend
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></div>
-  <div class="skill-icon" data-tooltip="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></div>
-  <div class="skill-icon" data-tooltip="React"><img src="https://skillicons.dev/icons?i=react" alt="React"/></div>
-  <div class="skill-icon" data-tooltip="Angular"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"/></div>
-  <div class="skill-icon" data-tooltip="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/></div>
-  <div class="skill-icon" data-tooltip="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></div>
-  <div class="skill-icon" data-tooltip="Sass"><img src="https://skillicons.dev/icons?i=sass" alt="Sass"/></div>
-  <div class="skill-icon" data-tooltip="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></div>
-  <div class="skill-icon" data-tooltip="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></div>
-  <div class="skill-icon" data-tooltip="jQuery"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></div>
-</div>
+![Frontend](https://skillicons.dev/icons?i=html,css,react,angular,vue,nextjs,sass,tailwind,bootstrap,jquery&theme=dark)
 
 ### 🖥️ Backend
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></div>
-  <div class="skill-icon" data-tooltip="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js"/></div>
-  <div class="skill-icon" data-tooltip="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django"/></div>
-  <div class="skill-icon" data-tooltip="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></div>
-  <div class="skill-icon" data-tooltip="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/></div>
-  <div class="skill-icon" data-tooltip="Spring"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></div>
-  <div class="skill-icon" data-tooltip="Ruby on Rails"><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails"/></div>
-</div>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring,rails&theme=dark)
 
 ### 🗄️ Databases & DevOps
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></div>
-  <div class="skill-icon" data-tooltip="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></div>
-  <div class="skill-icon" data-tooltip="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></div>
-  <div class="skill-icon" data-tooltip="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"/></div>
-  <div class="skill-icon" data-tooltip="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></div>
-  <div class="skill-icon" data-tooltip="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></div>
-  <div class="skill-icon" data-tooltip="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></div>
-  <div class="skill-icon" data-tooltip="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></div>
-  <div class="skill-icon" data-tooltip="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></div>
-  <div class="skill-icon" data-tooltip="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></div>
-</div>
+![Databases & DevOps](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,docker,aws,firebase,vite,bash&theme=dark)
 
 ### 🛠️ Tools & Others
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></div>
-  <div class="skill-icon" data-tooltip="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></div>
-  <div class="skill-icon" data-tooltip="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"/></div>
-  <div class="skill-icon" data-tooltip="NGINX"><img src="https://skillicons.dev/icons?i=nginx" alt="NGINX"/></div>
-  <div class="skill-icon" data-tooltip="Apache"><img src="https://skillicons.dev/icons?i=apache" alt="Apache"/></div>
-  <div class="skill-icon" data-tooltip="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></div>
-</div>
+![Tools & Others](https://skillicons.dev/icons?i=vscode,figma,graphql,nginx,apache,postman&theme=dark)
 
 ### 🧠 Currently Exploring
-<div class="skill-icons">
-  <div class="skill-icon" data-tooltip="Rust"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></div>
-  <div class="skill-icon" data-tooltip="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></div>
-  <div class="skill-icon" data-tooltip="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></div>
-  <div class="skill-icon" data-tooltip="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/></div>
-  <div class="skill-icon" data-tooltip=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET"/></div>
-
-</div>
+![Exploring](https://skillicons.dev/icons?i=rust,go,kubernetes,dotnet,tensorflow&theme=dark)
 
 </details>
 
